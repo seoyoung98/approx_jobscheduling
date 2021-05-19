@@ -27,7 +27,6 @@
 즉, 근사해는 최적해의 2배를 넘지 않는다
 
 ![KakaoTalk_20210519_163446546](https://user-images.githubusercontent.com/80522538/118791702-eb486d00-b8d1-11eb-9129-9049609754f1.jpg)</br>
-![img](file:///C:\Users\User\AppData\Local\Temp\DRW000012fc3e77.gif)
 
 ### 예시
 작업의 수 n : 4,5,6
